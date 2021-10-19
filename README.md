@@ -1,6 +1,6 @@
 [![Header](https://github.com/KaliSecurityMax/KaliSecurityMax/blob/main/assets/Portfolio.png)](https://github.com/KaliSecurityMax)
 
-## Я начинающий специалист информационной безопасности
+## Software Developer, WEB-Developer, Designer, Network Administrator
 
 ### Мои Работы:
 - [Система тестирования: PHP / JavaScript](https://github.com/KaliSecurityMax/ExamenSystem)
