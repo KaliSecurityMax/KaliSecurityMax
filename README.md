@@ -5,7 +5,7 @@
 ### Мои Работы:
 - [Система тестирования: PHP / JavaScript](https://github.com/KaliSecurityMax/ExamenSystem)
 - [Флуд Почты: Python](https://github.com/KaliSecurityMax/EmailFlood)
-- [Кик пользователей локальной сети](https://github.com/KaliSecurityMax/WI-FI-KickUsers)
+- [Кик пользователей локальной сети: Python](https://github.com/KaliSecurityMax/WI-FI-KickUsers)
 - [Генератор Аккаунтов Spotify: Python](https://github.com/KaliSecurityMax/Spotify-Generator-Account)
 - [Генератор Паролей: Python](https://www.youtube.com/watch?v=_k9Xu61XlVE)
 
