@@ -1,4 +1,4 @@
-[![Header](https://d.radikal.ru/d26/2110/f7/6a89c7dd766f.png)](https://github.com/KaliSecurityMax)
+[![Header](https://github.com/KaliSecurityMax/KaliSecurityMax/blob/main/assets/Portfolio.png)](https://github.com/KaliSecurityMax)
 
 ## Я начинающий специалист информационной безопасности
 
